@@ -3,6 +3,5 @@ hugo academicを利用している
 このフォルダ内のcontent等.mdを編集して中身を編集し、
 $hugo 
 でpublicationフォルダが作成される。
-そのpublicationの中身をgithub.io直下に置くことで個人ページを編集できる
-(リンクの都合上参照されるのはgithub.io/index.htmlになっているので注意、$hugoだけでは表示されるものは変わらない)
+(リンクの都合上参照されるのはgithub.io/index.htmlになっているので注意、io.index.htmlからData/public/index.htmlにリダイレクトしている)
 $hugo server --watchでローカルにプレビューできる
