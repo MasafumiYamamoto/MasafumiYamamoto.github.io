@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic Theme</title>
-    <link>https://example.com/index.xml</link>
+    <link>htts://masafumiyamamoto.github.io/index.xml</link>
     <description>Recent content on Academic Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>A Hyperbolic Geometric Flow for Evolving Films and Foams</title>
-      <link>https://example.com/publication/hmcf/</link>
+      <link>htts://masafumiyamamoto.github.io/publication/hmcf/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/hmcf/</guid>
+      <guid>htts://masafumiyamamoto.github.io/publication/hmcf/</guid>
       <description>&lt;p&gt;Presentation slides will be available soon.&lt;/p&gt;
 </description>
     </item>
