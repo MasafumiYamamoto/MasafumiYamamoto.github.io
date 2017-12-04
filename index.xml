@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic Theme</title>
-    <link>htts://masafumiyamamoto.github.io/index.xml</link>
-    <description>Recent content on Academic Theme</description>
+    <title>Masafumi Yamamoto</title>
+    <link>https://masafumiyamamoto.github.io/index.xml</link>
+    <description>Recent content on Masafumi Yamamoto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
@@ -12,10 +12,10 @@
     
     <item>
       <title>A Hyperbolic Geometric Flow for Evolving Films and Foams</title>
-      <link>htts://masafumiyamamoto.github.io/publication/hmcf/</link>
+      <link>https://masafumiyamamoto.github.io/publication/hmcf/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>htts://masafumiyamamoto.github.io/publication/hmcf/</guid>
+      <guid>https://masafumiyamamoto.github.io/publication/hmcf/</guid>
       <description>&lt;p&gt;Presentation slides will be available soon.&lt;/p&gt;
 </description>
     </item>
