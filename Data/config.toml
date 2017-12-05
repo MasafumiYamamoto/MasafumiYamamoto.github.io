@@ -1,5 +1,6 @@
 #baseurl = "https://example.com"
-baseurl = "https://masafumiyamamoto.github.io/Data/public/"
+#baseurl = "https://masafumiyamamoto.github.io/Data/public/"
+baseurl = "https://github.com/MasafumiYamamoto/MasafumiYamamoto.github.io/tree/master/Data/public/"
 #title = "Academic Theme"
 title = "Masafumi Yamamoto"
 copyright = "&copy; 2016 Your Name"
