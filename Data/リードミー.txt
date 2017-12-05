@@ -1,7 +1,0 @@
-＃個人ページのいじり方
-hugo academicを利用している
-このフォルダ内のcontent等.mdを編集して中身を編集し、
-$hugo 
-でpublicationフォルダが作成される。
-(リンクの都合上参照されるのはgithub.io/index.htmlになっているので注意、io.index.htmlからData/public/index.htmlにリダイレクトしている)
-$hugo server --watchでローカルにプレビューできる
