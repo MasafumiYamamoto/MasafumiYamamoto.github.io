@@ -13,9 +13,8 @@ title = "A Hyperbolic Geometric Flow for Evolving Films and Foams"
 url_code = "https://github.com/sdsgisd/HGF/"
 url_pdf = "https://sadashigeishida.bitbucket.io/hgf/hgf.pdf"
 url_project = "https://sadashigeishida.bitbucket.io/hgf/index.html"
-url_slides = ""
+url_slides = "https://sadashigeishida.bitbucket.io/hgf/HGF_SIGGRAPH_asia2017.pdf"
 url_video = "https://www.youtube.com/watch?v=sqywQK7i4L4"
 
 +++
 
-Presentation slides will be available soon.
